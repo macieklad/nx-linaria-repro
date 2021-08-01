@@ -1,5 +1,4 @@
 const rootMain = require('../../../.storybook/main');
-const { extendWebpack } = require('./linaria');
 
 // Use the following syntax to add addons!
 // rootMain.addons.push('');
