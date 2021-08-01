@@ -1,5 +1,5 @@
 {
-  "npmScope": "lados",
+  "npmScope": "universe",
   "affected": {
     "defaultBase": "master"
   },
@@ -41,7 +41,9 @@
     },
     "website-e2e": {
       "tags": [],
-      "implicitDependencies": ["website"]
+      "implicitDependencies": [
+        "website"
+      ]
     }
   }
 }
